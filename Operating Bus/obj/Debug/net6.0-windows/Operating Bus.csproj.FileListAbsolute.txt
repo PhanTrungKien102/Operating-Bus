@@ -1,0 +1,9 @@
+D:\Septemple_7\PRN221\Operating Bus\Operating Bus\obj\Debug\net6.0-windows\Operating Bus.csproj.AssemblyReference.cache
+D:\Septemple_7\PRN221\Operating Bus\Operating Bus\obj\Debug\net6.0-windows\Bus_Routes_Management.g.cs
+D:\Septemple_7\PRN221\Operating Bus\Operating Bus\obj\Debug\net6.0-windows\LoginWindow.g.cs
+D:\Septemple_7\PRN221\Operating Bus\Operating Bus\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Septemple_7\PRN221\Operating Bus\Operating Bus\obj\Debug\net6.0-windows\SignUp.g.cs
+D:\Septemple_7\PRN221\Operating Bus\Operating Bus\obj\Debug\net6.0-windows\UserRoutes.g.cs
+D:\Septemple_7\PRN221\Operating Bus\Operating Bus\obj\Debug\net6.0-windows\App.g.cs
+D:\Septemple_7\PRN221\Operating Bus\Operating Bus\obj\Debug\net6.0-windows\Operating Bus_MarkupCompile.cache
+D:\Septemple_7\PRN221\Operating Bus\Operating Bus\obj\Debug\net6.0-windows\Operating Bus_MarkupCompile.lref
